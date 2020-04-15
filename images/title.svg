@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="33px" viewBox="0 0 29 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Service-32px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-12.5%" y="-12.9%" width="125.0%" height="125.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#00EEC9" offset="0%"></stop>
+            <stop stop-color="#00DB9C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="28.0573539%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#73F4F4" offset="0%"></stop>
+            <stop stop-color="#3FE5E5" stop-opacity="0.501802885" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-302.000000, -116.000000)">
+            <g id="Service-32px" transform="translate(301.000000, 116.000000)">
+                <g id="编组-2">
+                    <g filter="url(#filter-1)">
+                        <circle id="椭圆形" fill="url(#linearGradient-2)" cx="16" cy="4.67741935" r="4.64516129"></circle>
+                        <g id="编组" transform="translate(15.874546, 15.353553) rotate(-45.000000) translate(-15.874546, -15.353553) translate(5.374546, 4.353553)">
+                            <path d="M0.000886130072,21.6774194 L0.000886130072,7.22580645 L0.000886130072,5 C0.000886130072,2.23857625 2.23946238,1.39544373e-15 5.00088613,0 L5.32346678,0 C8.08489052,3.80913106e-16 10.3234668,2.23857625 10.3234668,5 L10.3234668,7.22580645 L10.3234668,21.6774194 L5.00088613,21.6774194 L0.000886130072,21.6774194 Z" id="形状结合" fill="#6734FF"></path>
+                            <path d="M5.16217645,26.8387097 L5.16217645,13.0752688 L5.16217645,11.1935484 C5.16217645,8.43212464 7.4007527,6.19354839 10.1621765,6.19354839 L10.4847571,6.19354839 C13.2461808,6.19354839 15.4847571,8.43212464 15.4847571,11.1935484 L15.4847571,13.0752688 L15.4847571,26.8387097 L10.1621765,26.8387097 L5.16217645,26.8387097 Z" id="形状结合备份" fill="url(#linearGradient-3)" transform="translate(10.323467, 16.516129) rotate(-270.000000) translate(-10.323467, -16.516129) "></path>
+                            <path d="M0.000401657085,8.69117268 C1.0999786,10.06327 2.78988161,10.9418768 4.68499424,10.9418768 L10.3228139,10.9418109 L10.322,11.3547721 L-2.66453526e-14,11.3547721 L0.000401657085,8.69117268 Z" id="形状结合" fill="#4324C0"></path>
+                            <path d="M4.96862807,11.3548387 L10.3232134,11.3540991 L10.3234668,21.6774194 L0.000886130072,21.6774194 L-0.000574103189,8.71849566 C1.07844698,10.3094497 2.90145568,11.3548387 4.96862807,11.3548387 Z" id="形状结合" fill-opacity="0.381856425" fill="#3FE5E5"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

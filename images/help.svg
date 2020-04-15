@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="52px" viewBox="0 0 63 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>帮助手册</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-21.8%" y="-27.3%" width="143.6%" height="154.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-2" points="55 42.1578947 33.1896552 42.1578947 31.2931035 44 23.7068965 44 21.8103448 42.1578947 0 42.1578947 0 9 55 9"></polygon>
+        <filter x="-1.8%" y="-2.9%" width="103.6%" height="105.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="-1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="40.3628792%" y1="50%" x2="59.6371208%" y2="60.5947703%" id="linearGradient-4">
+            <stop stop-color="#FFEFD2" offset="0%"></stop>
+            <stop stop-color="#FFEEEE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-444.000000, -295.000000)">
+            <g id="帮助手册" transform="translate(433.000000, 277.000000)">
+                <rect id="矩形" fill="#D8D8D8" opacity="0" x="0" y="0" width="84" height="84"></rect>
+                <g filter="url(#filter-1)" transform="translate(15.000000, 20.000000)">
+                    <g id="路径" fill-rule="nonzero">
+                        <use fill="#4C7FF6" xlink:href="#path-2"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    </g>
+                    <path d="M29,41 L27,41 L27,11.6756757 C27,8.60135137 29,6 33,6 L51,6 L51,39.1081081 L33,39.1081081 C31.06,39.1081081 29.75,39.6189189 29,41 Z" id="路径" fill="#FFFBEA" fill-rule="nonzero"></path>
+                    <path d="M26,41 L28,41 L28,11.6756757 C28,8.60135137 26,6 22,6 L4,6 L4,39.1081081 L22,39.1081081 C23.94,39.1081081 25.25,39.6189189 26,41 L26,41 Z" id="路径" fill="#E4E4E4" fill-rule="nonzero"></path>
+                    <path d="M26.1052631,41 L28,41 L28,11.4005589 C28,8.29739175 26.7021053,5.16557991 23.68,4.12482534 L10,0 L10,33.4187238 L23.68,37.5435491 C25.3378947,38.1928271 25.7547369,39.386353 26.1052631,41 L26.1052631,41 Z" id="路径" fill="url(#linearGradient-4)" fill-rule="nonzero"></path>
+                    <path d="M48,31 L48,33 L31,33 L31,31 L48,31 Z M48,26 L48,28 L31,28 L31,26 L48,26 Z M48,21 L48,23 L31,23 L31,21 L48,21 Z M48,16 L48,18 L31,18 L31,16 L48,16 Z M48,11 L48,13 L31,13 L31,11 L48,11 Z" id="形状结合" fill="#ECCB5E"></path>
+                    <polygon id="路径" fill="#A1CEFF" fill-rule="nonzero" points="45 17 42 14.230982 39 17 39 4 45 4"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
